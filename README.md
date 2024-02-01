@@ -1,4 +1,4 @@
-# llmware
+# Polaris Discovery Engine
 ![Static Badge](https://img.shields.io/badge/python-3.9_%7C_3.10%7C_3.11-blue?color=blue)
 ![PyPI - Version](https://img.shields.io/pypi/v/llmware?color=blue)
 
